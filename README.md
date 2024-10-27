@@ -22,4 +22,4 @@ This course is designed to help you master Prisma, an essential tool for modern 
 
 
 
-*Happy learning, and welcome to the world of Prisma!*
+*@kamrul:- Happy learning, and welcome to the world of Prisma!*
